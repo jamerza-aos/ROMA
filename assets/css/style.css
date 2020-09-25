@@ -1,0 +1,201 @@
+@font-face{
+    font-family: Santio Bold;
+    src: url(../../font/Santio\ Bold.otf);
+}
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+section{
+    background: url(../img/cleo-topper.jpg) center/cover no-repeat;
+    width: 100%;
+    height: 1000px;
+    background-attachment: fixed;
+}
+.one{
+    display: inline-block;
+}
+.one img{
+    height: 3vh;
+    width: 3vh;
+    margin-left: 75%;
+    margin-top: -3%;    
+}
+.one span{
+    
+    color: white;
+    font-size: 30px;
+    margin-left: 80%;
+    margin-right: 10%;
+    
+    margin-top:20%;
+    font-family: 'Open Sans', sans-serif;
+    border-bottom: 4px solid #e7bc0e;;
+}
+.one p{
+    font-size: 90px;
+    color: white;
+    margin-left: 10%;
+    margin-top: 16%;
+    font-family: Santio Bold;
+    
+}
+.tow p{
+    font-size: 50px;
+    color: #e7bc0e;
+    font-family: 'Mr Dafoe', cursive;
+    padding-left: 10%;
+    padding-top: 12%;
+}
+.three p{
+    font-size: 40px;
+    color: #6bc1a3;
+    margin-left: 19%;
+    line-height: 1.5em;
+    font-family: 'Roboto', sans-serif;
+    direction: unset;
+}
+.three span{
+    color: white;
+    background: rgba(7, 6, 6, 0.514);
+}
+.four h1{
+    font-size: 200px;
+    color: #e7bc0e;
+    padding-left: 10%;
+    
+}
+.four img{
+    height: 20vh;
+    width: 20vh;
+    margin-left: 12%;
+    margin-bottom: 3%;
+}
+.four{
+    padding-top: 17%;
+}
+.four p{
+    font-size: 90px;
+    color: #e7bc0e;
+    padding-left: 10%;
+    font-family: 'Roboto', sans-serif;
+}
+.four span{
+    font-size: 70px;
+    color: white;
+    background: rgba(7, 6, 6, 0.514);  
+}
+.five h1{
+    font-size: 70px;
+    color: #cb91b6;
+    padding-left: 10%;
+    font-family: 'Roboto', sans-serif;
+}
+.five img{
+    height: 22vh;
+    width: 22%;
+    margin-left:7% ;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+.five span{
+    color: white;
+    background: rgba(7, 6, 6, 0.514);
+}
+.five p{
+    font-size: 200px;
+    color:#cb91b6 ;
+    padding-left: 10%;
+    font-family: 'Roboto', sans-serif; }
+.sex h1{
+    font-size: 200px;
+    padding-left: 10%;
+    color: #6bc1a3;
+}
+.sex img{
+    height: 22vh;
+    width: 22%;
+    margin-left: 8%;
+    margin-bottom: 5%;
+}
+.sex p{
+    font-size: 70px;
+    color: #6bc1a3;
+    padding-left: 10%;
+    font-family: 'Roboto', sans-serif;
+}
+.sex span{
+    color: white;
+    background: rgba(7, 6, 6, 0.514);
+}
+.seven p{
+    font-size: 40px;
+    color: #7eb8e1;
+    padding-left: 25%;
+    padding-right: 10%;
+
+}
+.seven span{
+    color: white;
+    background: rgba(7, 6, 6, 0.514);
+}
+/* div{
+    background: url(../img/see.png)center/cover no-repeat;
+    height: 100vh;
+    width: 100%;
+}*/
+.nein img{
+    width: 100%;
+    height: 100vh;
+}
+.nein {background: url(../img/see.png)center/cover no-repeat;
+    height: 100vh;
+    width: 100%;
+}
+.teen {
+    background: #000;
+    height: 150vh;
+    width: 100%;
+}
+.teen p:nth-of-type(1){
+    color: white;
+    padding-left: 12%;
+    margin-bottom: 12%;
+    font-size:100px ;
+    padding-top: 20%;
+    font-family: 'Roboto', sans-serif;
+}
+.teen a{
+    font-size: 50px;
+    text-decoration: none;
+    color: white;
+   border: 4px solid white;
+   padding: 30px;
+   margin-left: 12%;
+   
+   
+}
+.teen p:nth-of-type(2){
+    color: white;
+font-size: 30px;
+margin-top: 25%;
+margin-left: 40%;
+font-family: 'Roboto', sans-serif;
+}
+.eleven {
+    width: 100%;
+    height: 10vh;
+    background: #000;
+}
+.eleven p{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+.eleven a{
+    color:#6bc1a3 ;
+    text-decoration: none;
+}
